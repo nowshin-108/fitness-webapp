@@ -14,6 +14,6 @@ Zarif's Figma Mock Of His Page:
 
 https://www.figma.com/file/Bgtyob9m0YLzVR4qAVFdIV/Untitled?type=design&node-id=0%3A1&mode=design&t=9OzhzhUwxFKNs2ye-1
 
-Nowshin's Figma Mock of Her Page. Yayyy:
+Nowshin's Figma Mock of Her Page. Yayyy. I love zsadi:
 
 https://www.figma.com/file/2gDphDyCK236mQkoE4SF4M/Streamlit-Design-System-(Community)?type=design&node-id=134%3A432&mode=design&t=JhRgDXJ6leWb66XH-1
