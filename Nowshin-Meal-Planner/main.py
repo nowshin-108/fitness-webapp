@@ -41,7 +41,7 @@ with col1:
   st.write("")
 
 with col2:
-  st.image("https://storage.cloud.google.com/meal-gif/gifs/giphy.gif", width= 200)
+  st.image("fitness-webapp\\Nowshin-Meal-Planner\\giphy.gif", width= 200)
 
 with col3:
   st.write("")
